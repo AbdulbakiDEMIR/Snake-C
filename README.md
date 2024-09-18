@@ -28,7 +28,7 @@ This project is an implementation of the classic "Snake" game written in C for t
 ### Platform and Execution:
 
 - This game is developed for Windows devices and can be run using the `snake_game.exe` file.
-- Code details are available in the `snake.c` file.
+- Code details are available in the `snake_game.c` file.
 
 ---
 
@@ -60,7 +60,7 @@ Bu proje, klasik "Snake" (Yılan) oyununu terminal/komut satırı ortamında oyn
 ### Platform ve Çalıştırma:
 
 - Bu oyun, **Windows** cihazlar için uygun olarak geliştirilmiştir ve `snake_game.exe` dosyasıyla çalıştırılabilir.
-- Kod detayları, `snake.c` dosyasında bulunmaktadır.
+- Kod detayları, `snake_game.c` dosyasında bulunmaktadır.
 
 Bu oyun, terminal ortamında keyifli bir yılan oyunu deneyimi sunmakta ve oyun içi hız ve puan mekanikleri ile oyuncuya giderek zorlaşan bir deneyim yaşatmaktadır.
 
