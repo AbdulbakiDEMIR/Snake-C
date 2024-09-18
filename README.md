@@ -62,6 +62,3 @@ Bu proje, klasik "Snake" (Yılan) oyununu terminal/komut satırı ortamında oyn
 - Bu oyun, **Windows** cihazlar için uygun olarak geliştirilmiştir ve `snake_game.exe` dosyasıyla çalıştırılabilir.
 - Kod detayları, `snake_game.c` dosyasında bulunmaktadır.
 
-Bu oyun, terminal ortamında keyifli bir yılan oyunu deneyimi sunmakta ve oyun içi hız ve puan mekanikleri ile oyuncuya giderek zorlaşan bir deneyim yaşatmaktadır.
-
-This project is a snake game programmed in C.
